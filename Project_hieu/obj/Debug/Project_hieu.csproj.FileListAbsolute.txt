@@ -1,0 +1,6 @@
+D:\JBR\Project_hieu\Project_hieu\obj\Debug\Project_hieu.csprojAssemblyReference.cache
+D:\JBR\Project_hieu\Project_hieu\obj\Debug\Project_hieu.csproj.CoreCompileInputs.cache
+D:\JBR\Project_hieu\Project_hieu\bin\Debug\Project_hieu.exe
+D:\JBR\Project_hieu\Project_hieu\bin\Debug\Project_hieu.pdb
+D:\JBR\Project_hieu\Project_hieu\obj\Debug\Project_hieu.exe
+D:\JBR\Project_hieu\Project_hieu\obj\Debug\Project_hieu.pdb
