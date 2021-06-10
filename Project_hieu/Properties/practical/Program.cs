@@ -6,6 +6,7 @@ namespace Project_hieu.Properties.practical
     {
         public class Program
         {
+            //ex1
             public static void Main(string[] args)
             {
                 Phone p = new Phone("Viettell", "viettel", 200);
@@ -13,6 +14,8 @@ namespace Project_hieu.Properties.practical
                 Console.WriteLine("_");
                 MobilePhone mobile = new MobilePhone("Viettel", "Viettel", 100);
                 mobile.Display();
+            //ex2
+            
             }
         }
     }
